@@ -1,0 +1,26 @@
+/* .menu {
+  list-style: none;
+  display: inline-flex;
+  align-items: flex-start;
+  justify-content:flex-start; /* Align items to the left */
+  /* margin: 0; /* Remove default margin */
+  /* padding: 0; Remove default padding */
+/* }  */
+
+/* .menu li {
+  margin: 0; /* Remove margin */
+  /* align-items: flex-start;
+  justify-content: flex-start;
+  display: inline-flex;
+} */ 
+
+/* .menu li a {
+  color: black;
+  font-size: 16px; /* Add 'px' to specify the unit */
+  /* font-family: K2D;
+  font-weight: 400;
+  word-wrap: break-word;
+  margin: 0 10px;
+  position: relative;
+} */  
+
